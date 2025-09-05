@@ -1,170 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/cccbridge/client.toml"
-hash = "bf5f00ef61bf3fda42349574c6fa292568dca0560fb3ea63dd9a7d8d0c829f56"
-
-[[files]]
-file = "config/computercraft-client.toml"
-hash = "a28eb28eda3d19244448232dd0cddadab1b5488b3a04aded5929dbad147a5ebd"
-
-[[files]]
-file = "config/configured-fixes/config.json"
-hash = "66915c376960a2aa90807e1833e86f06692d931221dd70d2bd5f648802152197"
-
-[[files]]
-file = "config/configured/config.json"
-hash = "1315a472578fa475a47300b59fa5148d64ad9aa0e6ee95fe42c398c6a77c1fb0"
-
-[[files]]
-file = "config/copycats-client.toml"
-hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
-
-[[files]]
-file = "config/copycats-common.toml"
-hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
-
-[[files]]
-file = "config/create-client.toml"
-hash = "62b0fa03570f041af21889bc3a0fda2693a4bac990272b0cdcc7478fde28e737"
-
-[[files]]
-file = "config/create-common.toml"
-hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
-
-[[files]]
-file = "config/create-server.toml"
-hash = "e6c59d44789492b35fe0384c883a324419eac5f8ad555a176bb40a2ec381f439"
-
-[[files]]
-file = "config/create_enchantment_industry-server.toml"
-hash = "82cde6ba7ad85e428bdf1078828f6b651fd05870c3c233aa6be0ddc9bd032268"
-
-[[files]]
-file = "config/createaddition-common.toml"
-hash = "526d0d94952ed5e4054ee3822ab7234f0fbb3b3ebdedd00bd3fa6cee4f748710"
-
-[[files]]
-file = "config/createdynlight-client.toml"
-hash = "40dd926d50d05585961b0fae943300aa8d12828d4f1e1a59e1868a4bbfc187fc"
-
-[[files]]
-file = "config/createdynlight-server.toml"
-hash = "25fce074755a8475c752da53bc5760236750837f74cc3408126861299b2b9752"
-
-[[files]]
-file = "config/demandingsaplings.toml"
-hash = "5934c6af7d585b7e71d626eb27156f942a754a15033dda649af132c9df212ffb"
-
-[[files]]
-file = "config/escalated-server.toml"
-hash = "b52d298bf456b325ceaa466bbc327f3251dd40de0080c675e8278b9453deec0d"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "4627b1d39a4fbd7170d53fac5c1faa94afb66d5aba58f5f5fd6eef320d6edbc1"
-
-[[files]]
-file = "config/farmersdelight-client.toml"
-hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
-
-[[files]]
-file = "config/farmersdelight-common.toml"
-hash = "747831fd6506f4c06ee5d4d058f8b2b087fe96f1bd4eac9fd3944f91f3feb3d8"
-
-[[files]]
-file = "config/flywheel.json"
-hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
-
-[[files]]
-file = "config/forgeconfigapiport.toml"
-hash = "300b866a6251887cbd30b18438e123b2fa524315edbf8e2996a01acb4ecac91e"
-
-[[files]]
-file = "config/gamma_utils.json5"
-hash = "20ec25e6d1d9e42fbe59ad03aa9fd2687811a0a840992aea94547249a341c015"
-
-[[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "556129f14001b904b9dc7827f153fad700526e1bac951d15b44da7477a89e8ce"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "5064fb08f3a4af3321de4746ac60fe83ac464732b684a38c68d97ad2c4bce440"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "8c5ae3646c07bfd87fe9259333c2df2b7eb2670cd0c64c21f48f69e0a5629a18"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "f861a3765abec8f286b3cceaee9d95a6f58faf4445f6df6b9171834445337e29"
-
-[[files]]
-file = "config/jei/world/local/Sz_rvival_EmCe/bookmarks.ini"
-hash = "d78f654bac43055c48a46c4da43e3c20d4667f7d09b7bfefb65455fef1a87adc"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
-
-[[files]]
-file = "config/natures_spirit.toml"
-hash = "1e416c8cd3dfad048554557b2bc153710f1909067bdaefc5404a18fb15c6b1c1"
-
-[[files]]
-file = "config/openpartiesandclaims-server.toml"
-hash = "f920ea508c8ee38f0ddfb3539caaf0ed454e42d945ce348497db2dc3b17ee264"
-
-[[files]]
-file = "config/railways-client.toml"
-hash = "e8a96e9a9c273241f5e084aceef5e6c922b3eb52708f2b0b3608220a0c3166ab"
-
-[[files]]
-file = "config/railways-common.toml"
-hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
-
-[[files]]
-file = "config/railways-server.toml"
-hash = "b57a70cd38ca41c27469b619f84ba965a50829a3acd41b15565f723c5a8befd1"
-
-[[files]]
-file = "config/terrablender.toml"
-hash = "cd5428966b529748e9ba8785cf7a01d19db50ddb3f7f257226baed6defc54af5"
-
-[[files]]
-file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "71cffe7689e579cdf95700b08791f8382f9ae4e9709c5f6f4addc736f145ab3e"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -182,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "02e4f1342a25791634a39ae7d56c81e807ff09c4c75db4af963678ac91a69a14"
 metafile = true
 
 [[files]]
@@ -222,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "9fb24bae0eafc30b8272c39446f14052c94cf024706dccba661a9ddb1f0a4eae"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "33da71242eed44ccd9e93b1d5c4d9a4dc15fb5e5ce44774468b0c8ee5c2b91b7"
 metafile = true
 
 [[files]]
@@ -281,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "71a7d5280738e543adf72ccb342e5560e669c2ce60d2aa2f8a8fa0b65a74ac32"
+hash = "c1714a7b6b7b75c9badb883089019c27a4a33cb4ce9f65487339be9c4e43b8e9"
 metafile = true
 
 [[files]]
@@ -330,6 +176,11 @@ hash = "d2dc9dfea0cc21063ccd2d3536d1caf26f4d71afa0c8fa812e416d271324f2e1"
 metafile = true
 
 [[files]]
+file = "mods/registed.pw.toml"
+hash = "b3dc9452b6c7b8ca294315d7edab6ceaf79c987b11fb10c9b33b4b45235e026c"
+metafile = true
+
+[[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "43a85795afb0c789af3286172ae1688c410015972a87545872effddffdb5c509"
 metafile = true
@@ -351,17 +202,9 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "64d3874c985b5f09e5ea6c3f56265ccecff16ab5aabc4346ae28216c58b6177f"
+hash = "e8ac876de3be91b1b380aac69dd00860cfb12ee75b2949ab7df33baa498885a6"
 metafile = true
 
 [[files]]
-file = "servers.dat"
-hash = "00863b32867d0abfc17b76d76504aec14fb2f2e0b3f186db09f9c85c0acde97d"
-
-[[files]]
 file = "unsup.ini"
-hash = "4ae21e9e7c2e7db6ea23757ff4e7f12e56e5c5cd0e1a978a4484e2fb920c00b0"
-
-[[files]]
-file = "unsup.jar"
-hash = "38b4c733a85a30d277e2b87b3757812a3c8f07b952e78d708d305297868b2287"
+hash = "5e9d3ae44288020aaf60cd6587165941d0854b087a2f3dee9fe967e5de9d68b6"
