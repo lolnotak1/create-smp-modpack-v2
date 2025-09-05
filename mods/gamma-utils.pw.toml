@@ -11,8 +11,3 @@ hash = "ea0a8e8d68dfe1a722fcc9e6f873ad62d041be7ae361640904065aaa0d9849de39d76f82
 [update.modrinth]
 mod-id = "wdLuzzEP"
 version = "qCrk9Btw"
-
-[option]
-optional = true
-default = false
-description = "Fullbright, be lehet alitani a gammat es be lehet kapcsolni night visiont"

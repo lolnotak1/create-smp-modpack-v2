@@ -1,0 +1,13 @@
+name = "Create SMP Modpack"
+filename = "Create SMP Modpack 1.0.1.mrpack"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yU1SGV0p/versions/R4r29LKa/Create%20SMP%20Modpack%201.0.1.mrpack"
+hash-format = "sha512"
+hash = "2d4b80a6e9edb4895cce97496695655a427cf7d19c841c0c5ae57e55466c31e7caa43d2d0087e5d2cf3903b98041963b1f9a4c72ab9bd72ba6f6c40e5744b0f9"
+
+[update]
+[update.modrinth]
+mod-id = "yU1SGV0p"
+version = "R4r29LKa"
