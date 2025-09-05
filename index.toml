@@ -56,11 +56,6 @@ hash = "0be9a4a21dec89c60c7952c4ac9c34387bd2714666a90564cf0d2524ea033a1c"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "783e6145df14b33c0785c6561865759fdde52d73f23b6909dba48c0930b38f09"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
@@ -121,11 +116,6 @@ hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
-file = "mods/facucraft-t3.pw.toml"
-hash = "205dd2d2c052f826d85a2b3c174ea142ba05d7578eb108c4a1abdc639af48623"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
@@ -153,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
-metafile = true
-
-[[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "4e4d52b9e85c56a0d8327a684e53ece3012664eafc1dde096831a6603a0ad931"
 metafile = true
 
 [[files]]
