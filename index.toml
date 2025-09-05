@@ -176,6 +176,11 @@ hash = "d2dc9dfea0cc21063ccd2d3536d1caf26f4d71afa0c8fa812e416d271324f2e1"
 metafile = true
 
 [[files]]
+file = "mods/registed.pw.toml"
+hash = "b3dc9452b6c7b8ca294315d7edab6ceaf79c987b11fb10c9b33b4b45235e026c"
+metafile = true
+
+[[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "43a85795afb0c789af3286172ae1688c410015972a87545872effddffdb5c509"
 metafile = true

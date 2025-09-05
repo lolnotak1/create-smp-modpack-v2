@@ -1,0 +1,13 @@
+name = "Registed"
+filename = "registed-1.20-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TQwJPHrY/versions/3jS5lU6G/registed-1.20-1.0.0.jar"
+hash-format = "sha512"
+hash = "4843fc1434af6bfeb72c9934a270f9543b56897391a832142d6d55eb5e304d4fcd215b9ddb2bffd3569d3f708390e838c8d5ce677f847db97e1b5afe42175fb5"
+
+[update]
+[update.modrinth]
+mod-id = "TQwJPHrY"
+version = "3jS5lU6G"
