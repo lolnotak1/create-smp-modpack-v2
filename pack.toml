@@ -1,0 +1,13 @@
+name = "Create smp modpack auto update version"
+author = "memz1013"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d514612c9eca60fd37ca45a59beb376a1dbb3ca96b544b7e4bc1d52d69ed7008"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.20.1"
