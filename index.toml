@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "0f88e46eb7b6487e139e4cf9e75c3b6c2764ffea3a222655798a893399bdfa1a"
+hash = "c1714a7b6b7b75c9badb883089019c27a4a33cb4ce9f65487339be9c4e43b8e9"
 metafile = true
 
 [[files]]
@@ -197,5 +197,9 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fd725a2383164ee2866a41635b0a8baf4cc1506d33df1ce1cc1455ab98a32e01"
+hash = "e8ac876de3be91b1b380aac69dd00860cfb12ee75b2949ab7df33baa498885a6"
 metafile = true
+
+[[files]]
+file = "unsup.jar"
+hash = "38b4c733a85a30d277e2b87b3757812a3c8f07b952e78d708d305297868b2287"
