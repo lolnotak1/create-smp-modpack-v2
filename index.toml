@@ -71,11 +71,6 @@ hash = "33da71242eed44ccd9e93b1d5c4d9a4dc15fb5e5ce44774468b0c8ee5c2b91b7"
 metafile = true
 
 [[files]]
-file = "mods/create-smp-modpack.pw.toml"
-hash = "f7e6114b406ac4db3f40773dbd9077a6feb40a141afecbd90a40cc317407cd39"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
@@ -188,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "43a85795afb0c789af3286172ae1688c410015972a87545872effddffdb5c509"
-metafile = true
-
-[[files]]
-file = "mods/steam-n-rails-modpack.pw.toml"
-hash = "2ecbdbe678bd0f3348bfa7451785b64a57dd702641562ed7b99c1415408db4af"
 metafile = true
 
 [[files]]
