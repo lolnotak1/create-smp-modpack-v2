@@ -1,4 +1,4 @@
-hash-format = "sha256"
+﻿hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
