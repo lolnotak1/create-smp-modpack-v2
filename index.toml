@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "f8f1d783f110ff8eb15a9d6517b8bca7eccef1a132454a1d0b105074e6d456bc"
+hash = "1cee573aee404f94673333d0475f862afa184f94861056be088e36e7d854cc44"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+hash = "246f3d67abead6d493f665fea31b592c1e03ec151cb2c1ef32067c8cea55844e"
 metafile = true
 
 [[files]]
