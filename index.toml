@@ -41,6 +41,11 @@ hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "cf0ea0786cf67b126b589a71f311268eb96bc98f1e4b58467aad45cb9aa24dfd"
+metafile = true
+
+[[files]]
 file = "mods/create-colored.pw.toml"
 hash = "d6068797e65a20274ec52f83e0da38138816361ed2e758ea130d3ed1e36c6d62"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "1cee573aee404f94673333d0475f862afa184f94861056be088e36e7d854cc44"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
