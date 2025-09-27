@@ -96,6 +96,11 @@ hash = "9fb24bae0eafc30b8272c39446f14052c94cf024706dccba661a9ddb1f0a4eae"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "33da71242eed44ccd9e93b1d5c4d9a4dc15fb5e5ce44774468b0c8ee5c2b91b7"
 metafile = true
