@@ -46,6 +46,11 @@ hash = "cf0ea0786cf67b126b589a71f311268eb96bc98f1e4b58467aad45cb9aa24dfd"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
+metafile = true
+
+[[files]]
 file = "mods/create-colored.pw.toml"
 hash = "d6068797e65a20274ec52f83e0da38138816361ed2e758ea130d3ed1e36c6d62"
 metafile = true
@@ -251,8 +256,18 @@ hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
+file = "mods/trackwork-refabricated.pw.toml"
+hash = "8c00216e81ce333b2d428e0e90d859f8c9b0e7440cf187a1b6010407c0947cfa"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "1feb74367b4db618e7fe0715f19cea1c7c250abc0fac0efa74f7177c504f6339"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "d885e6ee5133e33b62fc32e96fd2ac4bd47e3eed59cde30d59c4e35168ab40ce"
 metafile = true
 
 [[files]]
