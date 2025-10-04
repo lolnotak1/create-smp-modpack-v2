@@ -66,6 +66,11 @@ hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators-fabric.pw.toml"
+hash = "ee3138fd5b546f541d90a01c2deb0ec00abec4ca54b3195d46e6a32bd12a50a3"
+metafile = true
+
+[[files]]
 file = "mods/create-dynamic-lights.pw.toml"
 hash = "f38dc6a87e6d7c5d6055364dbba6954df4c67c73fcc5e887426e9e79bd91fcfd"
 metafile = true
