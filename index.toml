@@ -181,6 +181,11 @@ hash = "1cee573aee404f94673333d0475f862afa184f94861056be088e36e7d854cc44"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -188,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "a615fd6551b3d47e2d0e42e4ec30df6293bec90c135f1022113425ab8f23f7a6"
+metafile = true
+
+[[files]]
+file = "mods/kilt.pw.toml"
+hash = "a592147d19a5c55d62c63c852bc53980c7e276a0b5543c1ae8b9e2f407038e27"
 metafile = true
 
 [[files]]
@@ -246,6 +256,11 @@ hash = "43a85795afb0c789af3286172ae1688c410015972a87545872effddffdb5c509"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true
@@ -273,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d885e6ee5133e33b62fc32e96fd2ac4bd47e3eed59cde30d59c4e35168ab40ce"
+metafile = true
+
+[[files]]
+file = "mods/warium.pw.toml"
+hash = "81c8b8de36eebaffb67c11b53dc339df8091f5a7856f3b4a0767ffb7db739c8e"
 metafile = true
 
 [[files]]
