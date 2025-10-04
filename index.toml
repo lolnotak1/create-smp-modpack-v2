@@ -181,6 +181,11 @@ hash = "1cee573aee404f94673333d0475f862afa184f94861056be088e36e7d854cc44"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
