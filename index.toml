@@ -86,6 +86,11 @@ hash = "0be9a4a21dec89c60c7952c4ac9c34387bd2714666a90564cf0d2524ea033a1c"
 metafile = true
 
 [[files]]
+file = "mods/create-ender-transmission.pw.toml"
+hash = "769e8e631d995db4b05ebaed185f4dfe59bb4a97b1a9393e75c7147efdb59168"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
