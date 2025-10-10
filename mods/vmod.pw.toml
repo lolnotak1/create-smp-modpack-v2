@@ -1,0 +1,13 @@
+name = "VMod"
+filename = "VMod-Fabric-1.20.1-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qS1ot7R2/versions/Pee7U81E/VMod-Fabric-1.20.1-1.7.1.jar"
+hash-format = "sha512"
+hash = "07b152aff789de7b217c2b706a269d6f6ea854831a0508826c592d52dfc0ffd3ad7a0997d455fc6b12062b536048aa8097f00efab2ff143ff9db8ea7561b6b54"
+
+[update]
+[update.modrinth]
+mod-id = "qS1ot7R2"
+version = "Pee7U81E"

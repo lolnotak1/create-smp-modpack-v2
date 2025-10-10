@@ -6,6 +6,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "9f0c0f153b264e0e78265378a0ab5fe7c5ab403633d467e445bfb0ac52e0585e"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
@@ -126,6 +131,11 @@ hash = "1b7e14317bc324ac08736eb154458a463715fdbc59bd556999893b58129eebf8"
 metafile = true
 
 [[files]]
+file = "mods/create-tweaked-controller-for-fabric.pw.toml"
+hash = "507516cf89f10243c1c019fb756d93a86dcfa6634b20eae66812b6f28f8a0263"
+metafile = true
+
+[[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "064808462edac75a4165894f615a05011f027a9868d4922b232ea9a9177c0165"
 metafile = true
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "a615fd6551b3d47e2d0e42e4ec30df6293bec90c135f1022113425ab8f23f7a6"
+metafile = true
+
+[[files]]
+file = "mods/kilt.pw.toml"
+hash = "a592147d19a5c55d62c63c852bc53980c7e276a0b5543c1ae8b9e2f407038e27"
 metafile = true
 
 [[files]]
@@ -293,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d885e6ee5133e33b62fc32e96fd2ac4bd47e3eed59cde30d59c4e35168ab40ce"
+metafile = true
+
+[[files]]
+file = "mods/vmod.pw.toml"
+hash = "6fd0b86c5e276f4e26ecdc324738edfa6313f5434b4d38402175c9b8719fb7a8"
 metafile = true
 
 [[files]]
