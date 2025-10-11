@@ -181,6 +181,11 @@ hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "41a144d12a83588f465068e24ea82f442ede58fba2f23759b91472c25cc76e68"
 metafile = true
