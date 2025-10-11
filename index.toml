@@ -86,11 +86,6 @@ hash = "0be9a4a21dec89c60c7952c4ac9c34387bd2714666a90564cf0d2524ea033a1c"
 metafile = true
 
 [[files]]
-file = "mods/create-ender-transmission.pw.toml"
-hash = "769e8e631d995db4b05ebaed185f4dfe59bb4a97b1a9393e75c7147efdb59168"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
@@ -186,11 +181,6 @@ hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "41a144d12a83588f465068e24ea82f442ede58fba2f23759b91472c25cc76e68"
 metafile = true
@@ -223,11 +213,6 @@ metafile = true
 [[files]]
 file = "mods/kilt.pw.toml"
 hash = "a592147d19a5c55d62c63c852bc53980c7e276a0b5543c1ae8b9e2f407038e27"
-metafile = true
-
-[[files]]
-file = "mods/modmenu.pw.toml"
-hash = "246f3d67abead6d493f665fea31b592c1e03ec151cb2c1ef32067c8cea55844e"
 metafile = true
 
 [[files]]
