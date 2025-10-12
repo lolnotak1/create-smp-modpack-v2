@@ -15,4 +15,4 @@ version = "lhrW53q7"
 [option]
 optional = true
 default = false
-description = "Borderless Windowed. Nagyabol csak akkor jo ha ket monitorod van."
+description = "Borderless Windowed. Ez legtobszor akkor jo amikor ket monitorod van." 

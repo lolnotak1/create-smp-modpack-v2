@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "9f0c0f153b264e0e78265378a0ab5fe7c5ab403633d467e445bfb0ac52e0585e"
+hash = "7205ef6b4cdcc7ed7bbb3c85b5753d47b582404e9d41dc87a454e77ea41b73aa"
 metafile = true
 
 [[files]]
@@ -218,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/kilt.pw.toml"
 hash = "a592147d19a5c55d62c63c852bc53980c7e276a0b5543c1ae8b9e2f407038e27"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
