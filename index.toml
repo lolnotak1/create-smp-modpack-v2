@@ -46,6 +46,11 @@ hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
 metafile = true
 
 [[files]]
+file = "mods/create-additional-recipes.pw.toml"
+hash = "64b5079dd3826eab0fd393a2e9efdc69d90498ba461964f2e144761ad4e86fef"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "cf0ea0786cf67b126b589a71f311268eb96bc98f1e4b58467aad45cb9aa24dfd"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "b4126dfd91618f20b6bb32e1aa7de64a38f1a39c2513ac5892fbb4c7b61e91ff"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "ca274f1a31ba6fdf3ce7fc4a14e5d6ffcaa19c711595d98d87deb1d9fe365727"
 metafile = true
 
 [[files]]
